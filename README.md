@@ -2,4 +2,4 @@
 
 Podstawy sztucznej inteligencji
 Laboratoria - projekty
-Projekt nr 1 znajduje się w gałęzi "Scenariusz1"
+
